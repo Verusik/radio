@@ -1,0 +1,8 @@
+body {
+    background-color:rgb(219, 219, 255);
+}
+
+.center {
+    margin: auto;
+    width: 400px;
+}
